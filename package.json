@@ -1,6 +1,6 @@
 {
   "name": "bump-bump",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small package that bumps versions in both changelog and package definition",
   "repository": "https://github.com/derlarsen/bump-bump",
   "main": "index.js",

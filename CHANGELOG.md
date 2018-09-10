@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.2] - 2018-09-10
+### Fixed
+- Add missing whitespace between headline descriptor and headline text
+
 ##[1.0.1] - 2018-08-29
 ### Added
 - Added repository URL to `package.json`
@@ -17,5 +21,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/derlarsen/bump-bump/compare/1.0.1...HEAD
+[Unreleased]: https://github.com/derlarsen/bump-bump/compare/1.0.2...HEAD
+[1.0.2]: https://github.com/derlarsen/bump-bump/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/derlarsen/bump-bump/compare/1.0.0...1.0.1
